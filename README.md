@@ -19,7 +19,7 @@ Here is a list of points:
 - Refactor code (feel free to change anything)
 - Add tests. For testing purposes you can add any testing library you want.
 
-## Implementation
+## Implementation:
 - Original **distance.py** file is [here](https://github.com/ArtemKuksenko/Edit-distance-test-task/blob/main/distance_dump.py)
 - Install [requirements](https://github.com/ArtemKuksenko/Edit-distance-test-task/blob/main/requirements_dev.txt):
   _(include pytest, mypy, flake8)_ 
