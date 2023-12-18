@@ -1,0 +1,4 @@
+[flake8]
+# Pycharm max line length
+max-line-length = 120
+exclude = distance_dump.py
